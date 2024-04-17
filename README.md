@@ -1,10 +1,13 @@
 # Data Engineer
 
-![Profile Image](assets/img/IMG_4313.png)
+![Profile Image](assets/img/IMG_4313.jpeg)
 
 ### Professional Summary
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
+### Education
+- M.S., Advanced Data Analytics | University of North Texas (May 2024)
+- B.Tech., Information Technology | JNTU (September 2020)
 
 ### Work Experience
 Data Engineer @ Virtusa Consulting Services Private LTD, Client : GoDaddy
@@ -32,10 +35,10 @@ Border Crossing Analysis and Visualization – University of North Texas
 
 
 ### Career Achievements
-- 2 times Star Performer of the Quater (Godaddy)
+- 2 times Star Performer of the Quater Award (Godaddy)
 
 ![VStar1](assets/img/Vstar - feb21.jpeg) | ![VStar2](assets/img/Vstar - may21.jpeg)
 
-### Education
-- M.S., Advanced Data Analytics | University of North Texas (May 2024)
-- B.Tech., Information Technology | JNTU (September 2020)
+- Virtusa Icon Award
+
+![VIcon](assets/img/VIcon.jpeg)
