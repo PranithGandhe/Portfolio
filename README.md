@@ -1,40 +1,8 @@
 # Data Engineer
 
-<div class="header">
-  <div class="progress-container">
-    <div class="progress-bar" id="myBar"></div>
-  </div>
-</div>
-
-<div>content...</div>
-
-.header {
-  position: fixed;
-  top: 0;
-  z-index: 1;
-  width: 100%;
-  background-color: #f1f1f1;
-}
-
-.progress-container {
-  width: 100%;
-  height: 8px;
-  background: #ccc;
-}
-
-.progress-bar {
-  height: 8px;
-  background: #04AA6D;
-  width: 0%;
-}
-
 <!-- ******************************************************************************************************************** -->
 
-<img src="assets/img/IMG_4313.jpeg" alt="Avatar">
-
-.img {
-  border-radius: 50%;
-}
+<img src="assets/img/rounded_cropped.JPG" width="350" height="275" alt="ProfilePic">
 
 <!-- ******************************************************************************************************************** -->
 
