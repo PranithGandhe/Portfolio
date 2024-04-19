@@ -9,9 +9,13 @@
 ### Professional Summary
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
+<!-- ******************************************************************************************************************** -->
+
 ### Education
 - M.S., Advanced Data Analytics | University of North Texas (May 2024)
 - B.Tech., Information Technology | JNTU (September 2020)
+
+<!-- ******************************************************************************************************************** -->
 
 ### Work Experience
 <b> Data Engineer @ Virtusa Consulting Services Private LTD, Client: <I>GoDaddy</I> </b>
@@ -35,6 +39,8 @@
 - Developed a project addressing communication challenges for non-verbal individuals in the era of autonomous vehicles, enabling interaction through facial movements.
 - Employed DLIB library for face and facial landmark detection, integrating Python's flexibility for an interactive experience.
 - Utilized OpenCV and machine learning techniques to analyze lip movement, allowing users to communicate effectively by carrying the device in their daily activities.
+
+<!-- ******************************************************************************************************************** -->
 
 
 ### Projects
