@@ -41,4 +41,5 @@ Border Crossing Analysis and Visualization – University of North Texas
 
 - Virtusa Icon Award
 
-![VIcon](assets/img/VIcon.jpeg)
+-- ![VIcon](assets/img/VIcon.jpeg)
+<img align="left" width="100" height="100" src="assets/img/VIcon.jpeg">
