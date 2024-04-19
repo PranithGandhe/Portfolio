@@ -1,7 +1,6 @@
 # Data Engineer
 
 <div class="header">
-  <h2>Scroll Indicator</h2>
   <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
   </div>
@@ -9,7 +8,6 @@
 
 <div>content...</div>
 
-/* Style the header: fixed position (always stay at the top) */
 .header {
   position: fixed;
   top: 0;
@@ -18,14 +16,12 @@
   background-color: #f1f1f1;
 }
 
-/* The progress container (grey background) */
 .progress-container {
   width: 100%;
   height: 8px;
   background: #ccc;
 }
 
-/* The progress bar (scroll indicator) */
 .progress-bar {
   height: 8px;
   background: #04AA6D;
@@ -34,11 +30,9 @@
 
 <!-- ******************************************************************************************************************** -->
 
-![Profile Image](assets/img/IMG_4313.jpeg)
-
 <img src="assets/img/IMG_4313.jpeg" alt="Avatar">
 
-img {
+.img {
   border-radius: 50%;
 }
 
@@ -76,13 +70,13 @@ img {
 
 
 ### Projects
-Data Fabric Modernization – Virtusa Consulting Services Private LTD
+<b>Data Fabric Modernization </b> – <I>Virtusa Consulting Services Private LTD</I>
 -	Data is captured from multiple sources with ingestion into a Kinesis Data Stream.
 -	The ETL process is executed through Kinesis Data Firehose for seamless data transformation.
 -	Used lambda for transformation and sending the data to various storage services which reduced 40% deployment time.
 
 
-Border Crossing Analysis and Visualization – University of North Texas
+<b>Border Crossing Analysis and Visualization</b> – <I>University of North Texas</I>
 -	Implemented a data pipeline with AWS services such as S3, Athena, and EMR for efficient data storage and analysis.
 -	Redesigned the schema for enhancements for in-depth analysis. Utilized Hadoop MapReduce on EMR for extensive analysis to find out the number of passengers in each vehicle type which decreased 50% human effort.
 -	Utilized Power BI to connect to S3 to develop insightful measures which resulted in a 30% improvement in data analysis and understanding.
