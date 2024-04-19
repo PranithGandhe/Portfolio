@@ -9,6 +9,8 @@
 ### Professional Summary
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
+
+![You can find my resume here](www.google.com)
 <!-- ******************************************************************************************************************** -->
 
 ### Education
@@ -39,6 +41,8 @@
 - Developed a project addressing communication challenges for non-verbal individuals in the era of autonomous vehicles, enabling interaction through facial movements.
 - Employed DLIB library for face and facial landmark detection, integrating Python's flexibility for an interactive experience.
 - Utilized OpenCV and machine learning techniques to analyze lip movement, allowing users to communicate effectively by carrying the device in their daily activities.
+
+Click here for more details - ![Lip Reading Tech For Mute](LRTM.md)
 
 <!-- ******************************************************************************************************************** -->
 
