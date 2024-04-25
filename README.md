@@ -28,7 +28,7 @@
 
 [You can find my resume here]([www.google.com](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link])
 <a href="www.google.com](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link">
-    <img src="assets/img/resume-logo.png" alt="LinkedIn" style="width: 100px; height: 100px;">
+    <img src="assets/img/resume-logo.png" alt="Resume" style="width: 100px; height: 100px;">
 </a>
 
 <!-- ******************************************************************************************************************** -->
