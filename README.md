@@ -25,12 +25,12 @@
 
 [![Resume](assets/img/resume-logo1.JPG)](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link)
 
-<!--<style>
+<style>
     img[alt=Resume] {
-        width: 150px;
-        height: 150px;
+        width: 175px;
+        height: 175px;
     }
-</style>-->
+</style>
 
 <!-- ******************************************************************************************************************** -->
 
