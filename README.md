@@ -12,7 +12,7 @@
         <ul>
             <li>Email: pranithgandhe@gmail.com</li>
             <li>Mobile no: +1 (940)-977-5007</li>
-            <li>LinkedIn: [Click Here..](https://www.linkedin.com/in/pranithgandhe)![image](https://github.com/PranithGandhe/Portfolio/assets/167259340/2f2d0d25-230e-423f-aa73-0dbdc8b441f6)</li>
+            <li>LinkedIn: [Click Here..](https://www.linkedin.com/in/pranithgandhe)</li>
         </ul>
     </div>
 </div>
