@@ -23,7 +23,7 @@
 ### Professional Summary
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
-[![Resume](assets/img/resume-logo.JPG)](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link)
+[![Resume](assets/img/resume-logo.JPG)](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link){: style="width: 100px; height: 100px;"}
 
 <!-- ******************************************************************************************************************** -->
 
