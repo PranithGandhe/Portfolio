@@ -12,7 +12,7 @@
         <ul>
             <li>Email: pranithgandhe@gmail.com</li>
             <li>Mobile no: +1 (940)-977-5007</li>
-            <li>LinkedIn: [Click Here..](https://www.linkedin.com/in/pranithgandhe)</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/pranithgandhe">Click Here..</a> </li>
         </ul>
     </div>
 </div>
@@ -23,18 +23,18 @@
 ### Professional Summary
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
-[![Resume](assets/img/resume-logo.JPG)](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link){: style="width: 100px; height: 100px;"}
+[![Resume](assets/img/resume-logo1.JPG)](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link){: style="width: 150px; height: 150px;"}
 
-<style>
+<!--<style>
     img[alt=Resume] {
         width: 100px;
         height: 100px;
     }
-</style>
+</style>-->
 
 <!-- ******************************************************************************************************************** -->
 
-<!--### Contact Me
+<!-### Contact Me
 You can reach me at:
 - Email: pranithgandhe@gmail.com
 - Mobile no: +1 (940)-977-5007
