@@ -2,7 +2,22 @@
 
 <!-- ******************************************************************************************************************** -->
 
-<img src="assets/img/rounded_cropped.JPG" width="350" height="350" alt="ProfilePic">
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <img src="assets/img/rounded_cropped.JPG" width="350" height="350" alt="ProfilePic">
+    </div>
+    <div style="flex: 1;">
+        <h3>Contact Me</h3>
+        <p>You can reach me at:</p>
+        <ul>
+            <li>Email: pranithgandhe@gmail.com</li>
+            <li>Mobile no: +1 (940)-977-5007</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/pranithgandhe">Click Here..</a></li>
+            <li>GitHub: <a href="https://github.com/PranithGandhe">Click Here..</a></li>
+        </ul>
+    </div>
+</div>
+
 
 <!-- ******************************************************************************************************************** -->
 
@@ -14,12 +29,12 @@
 
 <!-- ******************************************************************************************************************** -->
 
-### Contact Me
+<!--### Contact Me
 You can reach me at:
 - Email: pranithgandhe@gmail.com
 - Mobile no: +1 (940)-977-5007
 - LinkedIn: [Click Here..](https://www.linkedin.com/in/pranithgandhe)
-- GitHub: [Click Here..](https://github.com/PranithGandhe)
+- GitHub: [Click Here..](https://github.com/PranithGandhe)-->
 
 <!-- ******************************************************************************************************************** -->
 
