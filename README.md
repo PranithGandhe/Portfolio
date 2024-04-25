@@ -10,7 +10,17 @@
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
 
-[You can find my resume here](www.google.com)
+[You can find my resume here]([www.google.com](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link))
+
+<!-- ******************************************************************************************************************** -->
+
+### Contact Me
+You can reach me at:
+- Email: pranithgandhe@gmail.com
+- Mobile no: +1 (940)-977-5007
+- LinkedIn: [Click Here..](https://www.linkedin.com/in/pranithgandhe)
+- GitHub: [Click Here..](https://github.com/PranithGandhe)
+
 <!-- ******************************************************************************************************************** -->
 
 ### Education
