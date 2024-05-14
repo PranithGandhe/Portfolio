@@ -49,8 +49,8 @@ You can reach me at:
 
 <style>
     img[alt=C03] {
-        width: 175px;
-        height: 175px;
+        width: 125px;
+        height: 125px;
     }
 </style>
 
@@ -64,23 +64,25 @@ You can reach me at:
 
 ### Work Experience
 <b> Data Engineer @ Virtusa Consulting Services Private LTD, Client: <I>GoDaddy</I> </b>
--	Redesigned architecture framework for Big Data to AWS migration, reducing the team efforts and reducing overall workload by 30%.
--	Coordinated the development and deployment of AWS-based big data solutions, overseeing a 100TB Hadoop cluster and a Hive data warehouse with 100 million rows of data.
--	Introduced conversion of on-prem Oozie DAGs to Managed Apache Airflow DAGs, streamlining the workflow efficiency by 25%.
--	Engineered a migration factory setup in the AWS cloud environment, resulting in a 20% decrease in deployment time.
--	Played a key role in the successful migration of Big Data architecture to AWS, leveraging Hadoop, Spark, Hive, and EMR technologies to optimize data processing and analysis capabilities.
--	Identified  and resolved application performance issues, leading to a 15% improvement  in system performance and EMR cluster optimization.
--	Maintained up-to-date documentation and provided training to end-users on new systems and processes, ensuring smooth transition and adoption of new technologies.
--	EMR, S3, EC2, Lambda, Glue, Athena, Lake formation, Kinesis, Redshift, Hadoop, Spark, Hive, HDFS, Airflow, RDS, GIT, ETL.
+- Led a data migration project from on-premise to AWS, utilizing EMR for big data processing and migration, resulting in a seamless transition for the client.
+- Coordinated the development and deployment of AWS-based big data solutions, overseeing a 100TB Hadoop cluster and a Hive data warehouse with 100 million rows of data.
+- Introduced conversion of on-prem Oozie DAGs to Managed Apache Airflow DAGs, streamlining the workflow efficiency by 25%.
+- Engineered a migration factory setup in AWS cloud environment, resulting in a 20% decrease in deployment time. Developed automation scripts and utilized Lambda functions to automate the creation of EMR clusters, data extraction, transformation, and loading processes, reducing manual effort by 30%.
+- Played a key role in the successful migration of Big Data architecture to AWS, leveraging Hadoop, Spark, Hive, and EMR technologies to optimize data processing and analysis capabilities.
+- Identified and resolved application performance issues, leading to a 15% improvement in system performance and EMR cluster optimization.
+- Maintained up-to-date documentation and provided training to end-users on new systems and processes, ensuring smooth transition and adoption of new technologies.
+- Involved in optimizing data migration processes, resulting in a 40% increase in migration speed and efficiency, ultimately reducing project costs and time-to-completion.
 
 
-<b>Associate Software Engineer @ Virtusa Consulting Services Private LTD, Client: <I>GoDaddy</I> </b>
-- Developed automation scripts for file segregation and upload process, saving up to 10 hours weekly.
+<b> Associate Data Engineer @ Virtusa Consulting Services Private LTD, Client: <I>GoDaddy</I> </b>
+- Developed automation scripts for file segregation and upload process, saving up to 10 hours weekly.   Implemented data partitioning strategies, reducing storage costs.
 - Created external and internal hive tables with appropriate static and dynamic partitions.
-- Developed an automation Code that pulls the files from
+- Automated data ingestion and transformation processes, leading to a 50% increase in workflow efficiency.
+- Developed an automation code that pulls the files from S3 and Segregates them according to the requirement and uploads them back to S3 resulting in saving 5 hrs weekly.
+- Implemented error handling mechanisms, resulting in a 20% decrease in data processing errors.
 
 
-<b>Engineer @ L&T Technology Services (LTTS) LTD</b>
+<b> Engineer @ L&T Technology Services (LTTS) LTD</b>
 - Developed a project addressing communication challenges for non-verbal individuals in the era of autonomous vehicles, enabling interaction through facial movements.
 - Employed DLIB library for face and facial landmark detection, integrating Python's flexibility for an interactive experience.
 - Utilized OpenCV and machine learning techniques to analyze lip movement, allowing users to communicate effectively by carrying the device in their daily activities.
