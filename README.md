@@ -23,7 +23,7 @@
 ### Professional Summary
 3+ years of experience as a Data Engineer proficient in Big Data migration and AWS cloud solutions. Skilled in Python, SQL, and AWS services with a proven ability to optimize workflows and system performance. Committed to driving efficiency and delivering impactful solutions in data management for business success.
 
-[![Resume](assets/img/resume-logo1.JPG)](https://drive.google.com/file/d/1m4Vz3ZBuQv83SwcTZH8onrkJ9GbxmTLm/view?usp=drive_link)
+[![Resume](assets/img/resume-logo1.JPG)](https://drive.google.com/file/d/10oTWCB8P1sZBpSO5_xSJKdoRCEiyLTuV/view?usp=sharing)
 
 <style>
     img[alt=Resume] {
@@ -40,6 +40,19 @@ You can reach me at:
 - Mobile no: +1 (940)-977-5007
 - LinkedIn: [Click Here..](https://www.linkedin.com/in/pranithgandhe)
 - GitHub: [Click Here..](https://github.com/PranithGandhe)-->
+
+<!-- ******************************************************************************************************************** -->
+
+### Certification
+- AWS Certified Solutions Architect Associate
+[![C03](assets/img/aws-certified-solutions-architect-associate.png)](https://drive.google.com/file/d/1Tir_UYLmyWuJV2LRWDTVn-H8ccD_clu2/view?usp=sharing)
+
+<style>
+    img[alt=C03] {
+        width: 175px;
+        height: 175px;
+    }
+</style>
 
 <!-- ******************************************************************************************************************** -->
 
